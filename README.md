@@ -1,6 +1,6 @@
 # flutter_application_1
 
-The first Flutter project.
+The first Flutter project,
 With the guidance of Dr.Susara.
 
 ## Getting Started
